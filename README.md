@@ -1,3 +1,3 @@
-# Blog feito como estudo de RactJS, sem foco na parte visual, consumindo api de postagens utilizando Axios.
+# Blog feito como estudo de ReactJS, sem foco na parte visual, consumindo api de postagens utilizando Axios.
 
-git push -u origin main
+![image](https://user-images.githubusercontent.com/105018656/190732502-6ac7c986-67b4-4eba-b642-55e4ffefa0db.png)
